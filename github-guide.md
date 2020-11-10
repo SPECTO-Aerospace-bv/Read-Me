@@ -15,7 +15,7 @@ If the term command-line does not immediately make your eyes twinkle with joy, I
 
 All code of an application is stored in a _repository_. This is simply a folder git, together with some config files.
 These config files are what define this folder as a repository and hold all the different changes that you have saved, **so don't delete them** (e.g. .git, .gitignore, .gitinclude).
-When wanting to collaborate on a project, you probably want to sync your repository with a hosting service on the internet.
+When wanting to collaborate on a project, you probably want to sync your repository with a hosting service on the internet (or _clone_ an existing one).
 There are numerous platforms that offer the hosting of repositories: Gitlab, Github, Sourceforge, Bitbucket, etc. 
 As mentioned in the introduction, we will be focusing on Github.
 
